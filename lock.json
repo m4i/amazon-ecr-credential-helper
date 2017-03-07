@@ -1,0 +1,90 @@
+{
+    "memo": "a1ecdcd7ee52aa7bd21741d9e70d2bd884465d66ed741fbbf8a50b4eff304f98",
+    "projects": [
+        {
+            "name": "github.com/aws/aws-sdk-go",
+            "branch": "master",
+            "revision": "654534755951d5af0bef2b612cf98fe529acdb7b",
+            "packages": [
+                "aws",
+                "aws/credentials",
+                "aws/request",
+                "aws/session",
+                "service/ecr",
+                "service/ecr/ecriface"
+            ]
+        },
+        {
+            "name": "github.com/cihub/seelog",
+            "version": "v2.6",
+            "revision": "d2c6e5aa9fbfdd1c624e140287063c7730654115",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/davecgh/go-spew",
+            "version": "v1.1.0",
+            "revision": "346938d642f2ec3594ed81d874461961cd0faa76",
+            "packages": [
+                "spew"
+            ]
+        },
+        {
+            "name": "github.com/docker/docker-credential-helpers",
+            "version": "v0.4.2",
+            "revision": "1057cf7f8685ff7a2809aed88f6bdd2b60af7319",
+            "packages": [
+                "credentials"
+            ]
+        },
+        {
+            "name": "github.com/go-ini/ini",
+            "version": "v1.25.2",
+            "revision": "74bdc99692c3408cb103221e38675ce8fda0a718",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/golang/mock",
+            "branch": "master",
+            "revision": "bd3c8e81be01eef76d4b503f5e687d2d1354d2d9",
+            "packages": [
+                "gomock"
+            ]
+        },
+        {
+            "name": "github.com/jmespath/go-jmespath",
+            "version": "0.2.2",
+            "revision": "3433f3ea46d9f8019119e7dd41274e112a2359a9",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/mitchellh/go-homedir",
+            "branch": "master",
+            "revision": "b8bc1bf767474819792c23f32d8286a45736f1c6",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/pmezard/go-difflib",
+            "version": "v1.0.0",
+            "revision": "792786c7400a136282c1664665ae0a8db921c6c2",
+            "packages": [
+                "difflib"
+            ]
+        },
+        {
+            "name": "github.com/stretchr/testify",
+            "version": "v1.1.4",
+            "revision": "69483b4bd14f5845b5a1e55bca19e954e827f1d0",
+            "packages": [
+                "assert"
+            ]
+        }
+    ]
+}
